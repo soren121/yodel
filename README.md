@@ -13,4 +13,4 @@ The C&D letter I was sent is included here in this repository for your perusal.
 To my 30,000 users and everyone who helped out and sent in bug reports, thank you so much. You guys have been awesome. 
 I'm truly sorry to be letting all of you down.
 
--Nicholas <soren121>
+-Nicholas &lt;soren121&gt;
